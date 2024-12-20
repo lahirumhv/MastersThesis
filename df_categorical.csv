@@ -1,0 +1,32 @@
+,Participant,ParticipantNo,age_group,gender,highest_education,employment_status,computing_proficiency,prior_ai_experience,PEX,EEX,SOI,SEF,TRU,Prompt_count,Average_Words_per_Prompt,Word_Count,unique_word_count,Prompt_readability,Response_readability,lexical_diversity_index,Error_Count,Errors_per_ Word,SAT,ITU,UX
+0,P1,1,35-44,Male,Postgraduate Degree,Employed part-time,Expert,Yes,High,High,High,Low,High,Low,Low,Low,Low,Low,Low,Low,Low,Low,-0.4091371403958139,-0.8249907350193568,Low
+1,P2,2,35-44,Male,Postgraduate Degree,Student,Advanced,Yes,Low,High,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,-1.9945435594295942,-2.423410284119359,Low
+2,P3,3,35-44,Male,Postgraduate Degree,Employed full-time,Advanced,Yes,High,Low,High,High,Low,Low,High,High,High,High,High,High,High,High,1.1762692786379665,-0.8249907350193568,High
+3,P4,4,45-54,Female,College Graduate,Employed full-time,Novice,Yes,Low,Low,High,High,Low,Low,High,Low,Low,High,High,High,High,High,-0.4091371403958139,-0.8249907350193568,Low
+4,P5,5,18-24,Male,College Graduate,Employed full-time,Advanced,Yes,High,High,Low,Low,High,Low,Low,Low,Low,High,High,Low,Low,Low,-0.4091371403958139,0.7734288140806457,High
+5,P6,6,55-64,Male,Postgraduate Degree,Employed full-time,Expert,Yes,High,Low,High,Low,Low,Low,High,High,High,Low,High,High,Low,Low,-1.9945435594295942,0.7734288140806457,Low
+6,P7,7,25-34,Female,Postgraduate Degree,Student,Expert,Yes,High,High,High,Low,Low,High,High,High,High,High,Low,High,High,Low,1.1762692786379665,0.7734288140806457,High
+7,P8,8,18-24,Male,Postgraduate Degree,Student,Advanced,Yes,Low,Low,Low,High,High,Low,Low,Low,Low,High,High,Low,Low,High,-0.4091371403958139,-0.8249907350193568,Low
+8,P9,9,18-24,Male,Postgraduate Degree,Employed part-time,Advanced,No,Low,Low,High,High,High,Low,Low,Low,Low,High,High,Low,Low,Low,1.1762692786379665,0.7734288140806457,High
+9,P10,10,35-44,Male,Postgraduate Degree,Self-employed,Advanced,No,Low,High,Low,Low,Low,Low,High,Low,Low,Low,High,Low,Low,Low,-1.9945435594295942,-0.8249907350193568,Low
+10,P11,11,25-34,Female,Postgraduate Degree,Employed full-time,Advanced,Yes,High,Low,High,High,Low,High,Low,Low,High,High,Low,High,Low,Low,1.1762692786379665,-0.8249907350193568,High
+11,P12,12,25-34,Female,College Graduate,Self-employed,Advanced,Yes,High,High,High,High,High,High,High,High,High,Low,High,High,High,High,-0.4091371403958139,0.7734288140806457,High
+12,P13,13,35-44,Male,Postgraduate Degree,Employed full-time,Advanced,Yes,Low,Low,High,Low,Low,Low,High,Low,Low,Low,High,High,Low,Low,-0.4091371403958139,-0.8249907350193568,Low
+13,P14,14,18-24,Male,Some College,Student,Intermediate,Yes,High,High,High,High,High,Low,High,High,High,Low,Low,Low,High,High,1.1762692786379665,0.7734288140806457,High
+14,P15,15,25-34,Male,College Graduate,Employed full-time,Expert,Yes,High,High,High,High,High,Low,High,High,High,Low,High,High,High,High,-0.4091371403958139,0.7734288140806457,High
+15,P16,16,35-44,Male,College Graduate,Employed full-time,Expert,Yes,High,High,High,High,High,High,High,High,High,Low,Low,High,High,Low,1.1762692786379665,0.7734288140806457,High
+16,P17,17,35-44,Female,Postgraduate Degree,Employed full-time,Intermediate,Yes,High,Low,Low,High,Low,Low,High,High,High,Low,High,High,Low,High,-0.4091371403958139,-0.8249907350193568,Low
+17,P18,18,35-44,Male,College Graduate,Employed full-time,Advanced,No,High,High,Low,High,Low,Low,Low,Low,Low,High,Low,Low,Low,Low,-0.4091371403958139,0.7734288140806457,High
+18,P19,19,45-54,Male,College Graduate,Employed full-time,Advanced,No,High,Low,Low,High,High,High,Low,High,High,High,Low,Low,Low,Low,1.1762692786379665,0.7734288140806457,High
+19,P20,20,35-44,Male,College Graduate,Employed full-time,Intermediate,No,High,Low,Low,Low,High,Low,Low,Low,Low,High,Low,Low,Low,High,-0.4091371403958139,-0.8249907350193568,Low
+20,P21,21,25-34,Female,College Graduate,Employed full-time,Advanced,Yes,Low,Low,High,Low,High,Low,Low,Low,Low,Low,Low,High,Low,Low,-0.4091371403958139,0.7734288140806457,High
+21,P22,22,35-44,Male,Postgraduate Degree,Employed full-time,Intermediate,Yes,Low,Low,Low,High,Low,Low,Low,Low,Low,High,High,High,Low,Low,-0.4091371403958139,-0.8249907350193568,Low
+22,P23,23,35-44,Male,College Graduate,Self-employed,Intermediate,No,High,High,Low,Low,High,High,Low,Low,Low,High,Low,Low,High,High,-0.4091371403958139,0.7734288140806457,High
+23,P24,24,35-44,Male,Postgraduate Degree,Employed full-time,Intermediate,No,Low,High,Low,Low,Low,High,Low,Low,High,High,Low,High,High,High,-0.4091371403958139,-2.423410284119359,Low
+24,P25,25,25-34,Female,Postgraduate Degree,Employed part-time,Expert,Yes,Low,High,High,High,Low,Low,Low,Low,Low,Low,High,Low,Low,High,-0.4091371403958139,-0.8249907350193568,Low
+25,P26,26,25-34,Male,Postgraduate Degree,Student,Advanced,Yes,High,High,High,Low,High,Low,Low,Low,Low,Low,Low,High,Low,Low,-0.4091371403958139,0.7734288140806457,High
+26,P27,27,35-44,Female,Postgraduate Degree,Student,Expert,Yes,High,Low,High,High,Low,Low,Low,Low,Low,High,High,Low,Low,Low,1.1762692786379665,0.7734288140806457,High
+27,P28,28,18-24,Male,Some College,Employed part-time,Advanced,Yes,Low,High,High,High,Low,High,High,High,High,Low,Low,High,High,High,-0.4091371403958139,0.7734288140806457,High
+28,P29,29,25-34,Female,Postgraduate Degree,Student,Intermediate,Yes,High,High,Low,High,Low,High,High,High,High,Low,Low,High,High,High,1.1762692786379665,0.7734288140806457,High
+29,P30,30,25-34,Male,Postgraduate Degree,Employed part-time,Advanced,Yes,High,High,High,High,High,Low,Low,Low,Low,High,Low,Low,Low,Low,1.1762692786379665,0.7734288140806457,High
+30,P31,31,55-64,Female,College Graduate,Employed part-time,Novice,Yes,High,Low,Low,Low,High,Low,Low,Low,Low,High,High,High,Low,High,1.1762692786379665,0.7734288140806457,High
