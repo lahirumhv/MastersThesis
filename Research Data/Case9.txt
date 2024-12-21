@@ -1,0 +1,376 @@
+---PROMPT_START---
+
+Think of yourself as an expert travel adviser. Help me plan a trip to Rotorua from Auckland with a budget of NZD 2000. The budget should cover all aspects of the trip including transportation, accommodation, food costs and activities.
+
+---RESPONSE_START---
+
+Let's break down your Rotorua trip with a budget of NZD 2000, covering transportation, accommodation, food, and activities. Here's a detailed plan, assuming a 3-day trip from Auckland, with 4 adults traveling in your own car.
+
+1. Transportation: Car Costs
+Since you’re driving your own car, we’ll need to budget for fuel and any necessary car maintenance or tolls.
+
+Fuel: Auckland to Rotorua is approximately 230 km (one way). Assuming fuel consumption of 8 liters/100 km and a fuel price of NZD 2.30 per liter:
+
+Fuel cost = 
+230
+ 
+km
+×
+2
+ 
+ways
+×
+8
+ 
+L/100 km
+×
+2.30
+ 
+NZD/L
+=
+𝑁
+𝑍
+𝐷
+84.80
+230km×2ways×8L/100 km×2.30NZD/L=NZD84.80.
+Round trip fuel cost: NZD 85.
+
+Car Insurance / Maintenance: If your car is well-maintained, you might not need extra costs, but budgeting for unexpected repairs or insurance coverage might be wise. Approx: NZD 20.
+
+Total transportation cost: NZD 105.
+
+2. Accommodation (3 nights)
+Since you plan to stay in Rotorua for three days, accommodation will be a key portion of your budget. There are several options in Rotorua, but let’s aim for something affordable and comfortable.
+
+Budget option: Motels, Airbnbs, or campgrounds.
+Motels (3-star or 4-star) in Rotorua typically range from NZD 120–160 per night for a group of 4 adults. This may vary depending on availability and time of booking.
+For 3 nights at NZD 140 per night (on average):
+Accommodation cost: NZD 420.
+3. Food Costs
+You’ve mentioned planning to prepare breakfast and lunch, and sandwiches for dinner on day one. So, let’s break down the food costs accordingly.
+
+Groceries: For breakfast, lunch, and dinner on day one, plus snacks, budget around NZD 50–70 for groceries.
+
+Groceries: NZD 60 (for day 1).
+Dining out: For days 2 and 3, you might want to dine out for lunch and dinner.
+
+Average cost for a meal at a mid-range restaurant: NZD 20–30 per person.
+Two meals per day for 4 adults:
+Lunch = NZD 25/person × 4 = NZD 100.
+Dinner = NZD 30/person × 4 = NZD 120.
+For 2 days: NZD 220 for meals.
+Total food cost:
+Groceries (Day 1) = NZD 60 + Meals (Day 2 and 3) = NZD 220 = NZD 280.
+
+4. Activities & Attractions
+Rotorua is known for its geothermal wonders, adventure activities, and cultural experiences. Since you want fun activities without a Māori village visit, here are some suggestions:
+
+The Buried Village of Te Wairoa: Entry fee is around NZD 30 per adult.
+
+Total cost for 4 adults: NZD 120.
+Rotorua’s Geothermal Parks (e.g., Wai-O-Tapu, Hell’s Gate, or Te Puia):
+
+Entry fee is around NZD 40 per adult for parks like Wai-O-Tapu.
+Total for 4 adults: NZD 160.
+Other fun activities:
+
+Agrodome Farm Show: NZD 40 per adult.
+Skyline Gondola: NZD 45 per adult.
+You might choose one or two of these activities, budgeting around NZD 200 total for extra activities.
+Total activities cost: Around NZD 500 for all activities.
+
+5. Total Budget Breakdown
+Transportation: NZD 105
+Accommodation: NZD 420
+Food: NZD 280
+Activities: NZD 500
+Total estimated cost:
+NZD 1305
+
+Remaining Budget: NZD 695
+This leftover amount can be used for any additional expenses such as souvenirs, extra activities, or emergencies. You also have flexibility for upgrading accommodations or dining experiences, if desired.
+
+Let me know if you'd like to adjust anything or need additional recommendations!
+
+---END_OF_PAIR---
+
+
+
+---PROMPT_START---
+
+We are 2 adults and a kid. Suggest alternative accommodation options with their respective budgets in the form of a table.
+
+---RESPONSE_START---
+
+Here’s a table of alternative accommodation options for 2 adults and a kid, with their respective budgets for a 3-night stay in Rotorua:
+
+Accommodation Type	Description	Cost per Night	Total for 3 Nights	Per Person
+Holiday Park / Campground	Basic cabin or powered site with shared amenities	NZD 80–120	NZD 240–360	NZD 80–120
+Budget Motel (2-Star)	Small, simple room with private bathroom	NZD 100–140	NZD 300–420	NZD 100–140
+Airbnb (House or Apartment)	Self-contained 1-bedroom or 2-bedroom rental	NZD 140–180	NZD 420–540	NZD 140–180
+Backpacker Hostel (Family Room)	Private family room with shared facilities	NZD 80–120	NZD 240–360	NZD 80–120
+3-Star Hotel	Standard hotel room with basic amenities	NZD 150–200	NZD 450–600	NZD 150–200
+Luxury Lodge / Boutique Accommodation	Premium stay with added amenities	NZD 200–300	NZD 600–900	NZD 200–300
+Suggestions Based on Budget:
+For a budget-friendly stay: Holiday parks or budget motels can offer a simple and affordable option, around NZD 240–360 for 3 nights.
+Mid-range option: Airbnb rentals provide flexibility and space, with costs around NZD 420–540 for 3 nights.
+For a slightly more comfortable experience: A 3-star hotel or boutique accommodation would provide extra comfort and amenities.
+These options allow you to select an accommodation type based on your comfort preference and budget! Let me know if you'd like to dive deeper into any option.
+
+---END_OF_PAIR---
+
+
+
+---PROMPT_START---
+
+Is the 'cost per night' column for all 3 people. Otherwise, update the plan with only one column for the total cost.
+
+---RESPONSE_START---
+
+You're right! The "cost per night" column was meant to represent the total cost for all 3 people (2 adults and 1 kid). I'll update the table to show only the total cost for 3 nights, which will be easier to follow. Here's the revised table:
+
+Accommodation Type	Description	Total for 3 Nights
+Holiday Park / Campground	Basic cabin or powered site with shared amenities	NZD 240–360
+Budget Motel (2-Star)	Small, simple room with private bathroom	NZD 300–420
+Airbnb (House or Apartment)	Self-contained 1-bedroom or 2-bedroom rental	NZD 420–540
+Backpacker Hostel (Family Room)	Private family room with shared facilities	NZD 240–360
+3-Star Hotel	Standard hotel room with basic amenities	NZD 450–600
+Luxury Lodge / Boutique Accommodation	Premium stay with added amenities	NZD 600–900
+This table now clearly shows the total cost for accommodation for 2 adults and 1 kid for 3 nights in Rotorua. Let me know if you'd like more details on any option!
+
+
+
+---END_OF_PAIR---
+
+
+
+---PROMPT_START---
+
+Seems like the budget allows Luxury Lodge / Boutique Accommodation. Provide a list of available Luxury Lodge / Boutique Accommodation accommodation options centrally located to most of the attractions in the area. Present it as a table with their facilities, cost and other plus points if any.
+
+
+---RESPONSE_START---
+
+Here’s a list of Luxury Lodge / Boutique Accommodation options in Rotorua that are centrally located to major attractions. These properties offer premium amenities and comfort for your stay.
+
+Accommodation	Facilities	Cost per Night	Plus Points
+Peppers on the Point	Lakefront location, spa, outdoor pool, restaurant, luxurious rooms, scenic views, free Wi-Fi	NZD 200–300	Stunning lake views, close to Rotorua's geothermal attractions.
+The Terrace Rotorua	Boutique lodge, heated pool, private balconies, restaurant, luxury suites, free Wi-Fi, in-room spa bath	NZD 250–350	Set in lush gardens, central location, walkable to shops & eateries.
+Treetops Lodge & Estate	Private villas, outdoor activities (hiking, horse riding), spa, pool, restaurant, premium bedding, gourmet breakfast included	NZD 300–500	Located in a secluded estate, surrounded by nature, high-end service.
+Rotorua Thermal Holiday Park	Modern boutique lodge rooms, geothermal hot pools, spa, restaurant, scenic surroundings, playground for kids	NZD 220–300	Great mix of luxury and geothermal experiences, family-friendly.
+Black Swan Lakeside Boutique Hotel	Lakefront rooms, infinity pool, private beach, gourmet dining, luxurious spa facilities, free Wi-Fi, in-room Jacuzzi	NZD 250–400	Exclusive and peaceful, perfect for relaxation, close to attractions.
+Koura Lodge	Luxury lakeside lodge, private suites, outdoor pool, stunning lake views, massage services, free Wi-Fi, close to hot springs and geothermal parks	NZD 300–450	Tranquil lakeside setting, luxury amenities, close to geothermal attractions.
+Summary:
+Peppers on the Point and Black Swan Lakeside Boutique Hotel offer premium amenities like lake views and private pools.
+The Terrace Rotorua and Koura Lodge have central locations and luxurious setups with access to major attractions.
+Treetops Lodge & Estate provides a more secluded and nature-immersed experience, ideal if you prefer a retreat-style stay.
+Let me know if you'd like more details about any specific property or assistance with bookings!
+
+---END_OF_PAIR---
+
+
+
+---PROMPT_START---
+
+I opt for The Terrace Rotorua. List out the main attractions in the area that can be covered within the 3-day period.
+
+---RESPONSE_START---
+
+Great choice! The Terrace Rotorua is centrally located, making it easy to access several popular attractions. Here’s a list of main attractions that can be covered within your 3-day period:
+
+Day 1: Geothermal Wonders and Culture
+Wai-O-Tapu Thermal Wonderland
+
+Explore vibrant geothermal pools, geysers, and bubbling mud pools.
+Travel time: ~25 minutes drive from the hotel.
+Te Puia
+
+Visit the famous geyser, Pōhutu, and explore the Māori cultural performances.
+Travel time: ~5 minutes drive from the hotel.
+The Buried Village of Te Wairoa
+
+Discover the fascinating history of the village destroyed by a volcanic eruption.
+Travel time: ~20 minutes drive from the hotel.
+Government Gardens
+
+Relax and stroll through beautiful gardens, and visit the Rotorua Museum (currently under renovation, but the grounds are still lovely).
+Walking distance: 10-minute walk from the hotel.
+Day 2: Adventure & Outdoor Fun
+Skyline Rotorua Gondola & Luge
+
+Take a scenic gondola ride up the mountain, followed by a fun luge ride down.
+Travel time: ~10-minute drive or a 30-minute walk from the hotel.
+Agrodome
+
+Enjoy a farm show with sheep shearing, sheepdogs, and other farm animals.
+Travel time: ~15 minutes drive from the hotel.
+Rotorua Duck Tours
+
+Experience a land-and-water tour of Rotorua, seeing both the city and lakeside views.
+Travel time: 10-minute walk from the hotel.
+Kuirau Park
+
+Enjoy a walk through Rotorua’s public geothermal park with mud pools and steam vents.
+Walking distance: 5-minute walk from the hotel.
+Day 3: Relaxation & Scenic Views
+Hell’s Gate Geothermal Park and Mud Bath
+
+Indulge in a mud bath and hot mineral pool experience, perfect for relaxation.
+Travel time: ~10 minutes drive from the hotel.
+Rotorua Lakefront
+
+Relax by Lake Rotorua, take a walk along the boardwalk, or try kayaking.
+Walking distance: 15-minute walk from the hotel.
+Rainbow Springs Nature Park
+
+Home to native New Zealand wildlife including the kiwi bird.
+Travel time: ~15 minutes drive from the hotel.
+Waimangu Volcanic Valley
+
+Explore a beautiful volcanic valley with geothermal features and scenic walking tracks.
+Travel time: ~25 minutes drive from the hotel.
+Summary:
+Day 1: Focus on geothermal wonders and Māori culture (Wai-O-Tapu, Te Puia, The Buried Village).
+Day 2: Adventure activities like the gondola, luge, and farm experiences (Skyline Rotorua, Agrodome, Duck Tours).
+Day 3: Relaxation with geothermal spas, lakefront strolls, and wildlife encounters (Hell’s Gate, Rotorua Lakefront, Rainbow Springs).
+This itinerary makes the most of your location and ensures a great balance of fun, nature, and relaxation. Let me know if you'd like further customization!
+
+
+
+---END_OF_PAIR---
+
+
+
+---PROMPT_START---
+
+Allow the time to travel to and from Auckland. Create an itinerary with the best attractions, but there should be enough time to leisurely visit the places without being rushed and engage in activities if there are any. Include all costs and including food costs. Breakfast at the hotel. Lunch and dinner at restourants.
+
+---RESPONSE_START---
+
+Here’s an itinerary that includes travel from Auckland to Rotorua, leisure visits to the top attractions, and enough time for activities without feeling rushed. The plan accommodates your budget, with breakfast at the hotel, and lunch and dinner at restaurants.
+
+Day 1: Travel to Rotorua + Geothermal Exploration
+Morning:
+Departure from Auckland: Leave around 8:00 AM.
+Travel Time: Approximately 3 hours (230 km) by car.
+Arrival in Rotorua: Around 11:00 AM.
+Lunch:
+Lunch in Rotorua: Enjoy a meal at a local restaurant near your accommodation.
+Restaurant: The Fat Dog Café & Bar (variety of lunch options).
+Cost: NZD 20–25 per person x 3 people = NZD 75.
+Afternoon:
+Check-in at The Terrace Rotorua: Settle in and get refreshed.
+Cost: NZD 250–350 per night for 3 people x 2 nights = NZD 500–700.
+Wai-O-Tapu Thermal Wonderland:
+Explore the vibrant geothermal pools, geysers, and mud pools.
+Entry: NZD 40 per adult (total: NZD 80 for 2 adults) + NZD 20 for the child = NZD 100.
+Duration: 2–3 hours.
+Evening:
+Dinner: Head to Atticus Finch for a local dining experience.
+Cost: NZD 30 per person x 3 = NZD 90.
+Rest: Return to the hotel and relax for the evening.
+Day 2: Adventure and Culture
+Morning:
+Breakfast at The Terrace Rotorua (included with accommodation).
+
+Te Puia:
+
+Visit the Māori cultural village and see the famous Pōhutu Geyser.
+Entry: NZD 50 per adult (NZD 100 for 2 adults) + NZD 25 for the child = NZD 125.
+Duration: 2 hours (including cultural performance).
+Lunch:
+Lunch at: The Brantry, a well-regarded local spot for a relaxed lunch.
+Cost: NZD 25 per person x 3 = NZD 75.
+Afternoon:
+Skyline Rotorua Gondola & Luge:
+
+Take the scenic gondola ride, and enjoy the thrilling luge experience.
+Cost: NZD 45 per adult (NZD 90 for 2 adults) + NZD 30 for the child = NZD 120.
+Duration: 2 hours.
+Kuirau Park:
+
+A walk through Rotorua’s public geothermal park, free to enjoy.
+Duration: 1 hour.
+Evening:
+Dinner: The Regent Room at Regent of Rotorua for a more refined dinner.
+
+Cost: NZD 40 per person x 3 = NZD 120.
+Optional: Visit Rotorua Lakefront for a sunset walk by the lake, just a short stroll from your accommodation.
+
+Day 3: Relaxation and Scenic Views
+Morning:
+Breakfast at The Terrace Rotorua (included with accommodation).
+
+Hell’s Gate Geothermal Park & Mud Bath:
+
+Relax in a mud bath and hot mineral pools.
+Entry: NZD 50 per adult (NZD 100 for 2 adults) + NZD 25 for the child = NZD 125.
+Duration: 2 hours.
+Lunch:
+Lunch at: Third Place Café for a light, casual lunch.
+Cost: NZD 20 per person x 3 = NZD 60.
+Afternoon:
+Rainbow Springs Nature Park:
+
+See native wildlife, including kiwi birds.
+Entry: NZD 35 per adult (NZD 70 for 2 adults) + NZD 25 for the child = NZD 95.
+Duration: 2 hours.
+Drive back to Auckland: Start around 3:00 PM.
+
+Travel Time: ~3 hours, arriving around 6:00 PM.
+Dinner (on the way back or at home):
+Cost: NZD 20 per person x 3 = NZD 60 (if stopping for a quick meal on the way back to Auckland).
+Total Estimated Costs:
+Category	Cost
+Accommodation	NZD 500–700
+Food (Lunch & Dinner)	NZD 450
+Attractions	NZD 425
+Fuel & Travel Costs	NZD 85
+Total (Estimated)	NZD 1460–1660
+Remaining Budget: NZD 340–540
+You have flexibility in your budget to upgrade meals, activities, or accommodations as needed, or even for souvenirs or extra activities. This itinerary offers a good balance of adventure, relaxation, and culture without feeling rushed.
+
+Let me know if you'd like further adjustments!
+
+---END_OF_PAIR---
+
+
+
+---PROMPT_START---
+
+Summerise this and format it as a table, so that I can print it in a single page and carry it during the trip.
+
+---RESPONSE_START---
+
+Here’s a summarized version of the itinerary in a table format for easy printing and reference during your trip:
+
+Day	Time	Activity	Cost
+Day 1	Morning	Depart from Auckland (8:00 AM)	-
+Travel to Rotorua (3 hours)	Fuel: NZD 85
+Lunch	The Fat Dog Café & Bar	NZD 75
+Afternoon	Check-in at The Terrace Rotorua	Accommodation: NZD 500–700
+Wai-O-Tapu Thermal Wonderland	NZD 100
+Evening	Dinner at Atticus Finch	NZD 90
+Day 2	Morning	Breakfast at hotel	Included
+Te Puia (Māori culture & geysers)	NZD 125
+Lunch	The Brantry	NZD 75
+Afternoon	Skyline Rotorua Gondola & Luge	NZD 120
+Kuirau Park (geothermal park)	Free
+Evening	Dinner at The Regent Room	NZD 120
+Day 3	Morning	Breakfast at hotel	Included
+Hell’s Gate Geothermal Park & Mud Bath	NZD 125
+Lunch	Third Place Café	NZD 60
+Afternoon	Rainbow Springs Nature Park	NZD 95
+Drive back to Auckland (3 hours)	-
+Dinner	Quick meal on the way back to Auckland	NZD 60
+Total Costs			NZD 1460–1660
+Key Information:
+Accommodation: The Terrace Rotorua (NZD 500–700 for 2 nights)
+Food: Lunch and dinner at restaurants (Approx. NZD 450)
+Attractions: Wai-O-Tapu, Te Puia, Skyline Gondola, Hell’s Gate, Rainbow Springs (Approx. NZD 425)
+Fuel: NZD 85 for the round trip from Auckland to Rotorua.
+This table offers a concise overview of your itinerary, making it easy to follow each day. Feel free to print it out and carry it with you!
+
+---END_OF_PAIR---
+
+
