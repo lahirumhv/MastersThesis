@@ -1,17 +1,13 @@
 # Master's Thesis Data Analysis
 
-This repository contains the code and data used for the analysis in my Master's thesis. The project involves two primary data sources:
+This repository contains the code used for the analysis in my Master's thesis. The project involves two primary data sources:
 
 1. **Task 1:** Participant prompts and responses.
 2. **Task 2:** Participant survey responses.
 
-## Repository Structure
+### None of the above primary data sources are included in this repository as per the Ethics committee guidelines of Unitec.
 
-- **`Research Data/`**  
-  Contains all participant prompts and responses for Task 1. No personally identifiable information (PII) is included.
-  
-- **`Task2Responses.csv`**  
-  Contains survey data for Task 2. All data is anonymized.
+
 
 ## Instructions
 
@@ -31,7 +27,6 @@ To reproduce the analysis, run the Jupyter notebooks in the following order:
 
 ## Notes
 
-- The repository includes only anonymized and non-PII data.
 - The analysis was conducted using Python version 3.11.5 and Jupyter Notebooks.
 
 Feel free to use the code to validate the work done in the thesis.
